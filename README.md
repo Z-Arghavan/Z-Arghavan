@@ -20,5 +20,6 @@
 </div>
 
 # 
-<img src="https://github-readme-stats.vercel.app/api?username=Z-Arghavan&show_icons=true&theme=default" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z-Arghavan&layout=compact" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Z-Arghavan&show_icons=true&count_private=true" />
+</p>
