@@ -18,3 +18,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-red?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=zsoAqtcAAAAJ&hl=en)
 
 </div>
+
+# 
+<img src="https://github-readme-stats.vercel.app/api?username=Z-Arghavan&show_icons=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z-Arghavan&layout=compact" />
