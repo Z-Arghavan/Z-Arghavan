@@ -5,3 +5,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Z-Arghavan/Z-Arghavan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Z-Arghavan/Z-Arghavan/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arghavan%20Akbarieh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arghavanakbarieh/)
+
+[![TU/e personal page](https://img.shields.io/badge/ISBE-Research%20Group-orange?style=for-the-badge&logo=google-chrome)]([https://YOUR-ISBE-LINK](https://research.tue.nl/en/persons/arghavan-akbarieh/))
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-blue?style=for-the-badge&logo=google-scholar)]([https://scholar.google.com/citations?user=YOURID](https://scholar.google.com/citations?user=zsoAqtcAAAAJ&hl=en))
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6422-6779)
