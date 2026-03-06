@@ -20,6 +20,7 @@
 </div>
 
 # 
-<p align="center">
+<div align="center">
+  <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Z-Arghavan&show_icons=true&count_private=true" />
-</p>
+</p></div>
