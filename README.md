@@ -8,6 +8,8 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Z-Arghavan&label=Profile%20views&color=0e75b6&style=flat-square"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Z-Arghavan&show_icons=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z-Arghavan&layout=compact" />
 </p>
 
 ## Connect with Me
