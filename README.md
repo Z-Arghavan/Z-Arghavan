@@ -15,4 +15,4 @@
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-blue?style=for-the-badge&logo=google-scholar)]([https://scholar.google.com/citations?user=YOURID](https://scholar.google.com/citations?user=zsoAqtcAAAAJ&hl=en))
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6422-6779)
+[![ORCID](https://img.shields.io/badge/ORCID-0000-0001-6422-6779-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6422-6779)
