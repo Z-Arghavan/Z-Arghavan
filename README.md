@@ -6,7 +6,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Z-Arghavan/Z-Arghavan/output/github-contribution-grid-snake.svg">
 </picture>
 
-
 ## Connect with Me
 
 <div align="center">
