@@ -14,7 +14,9 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6422--6779-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6422-6779)
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-red?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=zsoAqtcAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-yellow?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=zsoAqtcAAAAJ&hl=en)
+
+[![TU/e personal page](https://img.shields.io/badge/TU%2Fe-Personal%20Page-red?style=for-the-badge)](https://research.tue.nl/en/persons/arghavan-akbarieh/)
 
 </div>
 
